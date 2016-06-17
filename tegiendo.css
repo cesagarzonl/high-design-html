@@ -1,0 +1,196 @@
+body {
+	background-color: #E6E6E6;
+	width: 75%;
+	margin-left: 17%;
+	margin-right: 17%;
+	box-shadow: 1% 1% 1% 1%;
+}
+#top{
+	float: top;
+	background-color: white;
+	width: 90%;
+	height:20%;
+	margin-left : 2%;
+	margin-right: 2%;
+	border-bottom-style:inset;
+}
+#redes{
+	float: right;
+	align-content: right;
+	width:21%;
+	height:50%;
+	margin-top:1%;
+	margin-left : 1%;
+	margin-right: 1%;
+	margin-bottom: 5%;
+}
+#avatar{
+	float: left;
+	width: 23%;
+	height: 100%;
+}
+#busca{
+	float:right;
+	width:150%;
+	height:100%;
+	top: 5%;
+	margin-top:1%;
+	margin-left : 1%;
+	margin-right: 1%;
+	margin-bottom:1%; 
+}
+#menu{
+	float: bottom;
+	background-color: white;
+	width: 90%;
+	height:5%;
+	margin-left : 2%;
+	margin-right: 2%;
+	text-align: center;
+		border-bottom-style:inset;
+}
+img{
+	border-radius: 5% 5% 5% 5%;
+	box-shadow:5% 5% 5% 5%;
+	 }
+a {	
+	font-size:  140%;
+	text-decoration:none;
+	text-align: bottom;
+	font-family: "Times New Roman", Times, serif;
+	margin-left : 2%;
+	margin-right: 2%;
+	color:84430a;
+}
+#mid{
+	width: 100%;
+	height:150%;
+}
+#Contenido {
+	float: left;
+	background-color: white;
+	width: 59%;
+	height:86%;
+	margin-left : 2%;
+}
+#Contenido #info1{
+	float: left;
+	width: 22%;
+	height: 16%;
+	margin-left : 2%;
+	margin-right: 2%;
+}
+p{
+	float: top;
+	margin-left : 2%;
+	margin-right: 2%;
+	width: 97%;
+	height: 10%;
+	font-size:  119%;
+	color: black;
+}
+#h5{
+	float: top;
+	font-size:  200%;
+	width: 100%;
+	height:5%;
+	text-align:center;
+	font-family: "Times New Roman", Times, serif;
+	color:844301;
+}
+h1 {
+	font-size:  240%;
+	text-align: center;
+	
+	margin-left : 2%;
+	margin-right: 2%;
+	background-color: B2FF66;
+	color:844301;
+	box-shadow: 2px 2px 2px 2px;
+}
+h2{
+
+}
+#Accesos {
+	float: left;
+	background-color: white;
+	width: 31%;
+	height:100.8%;
+	margin-right: 2%;
+	margin-bottom: 2%;
+	border-bottom-style:inset;
+}
+#extra {
+	float: top;
+	width: 100%;
+	height:20%;
+	text-align: bottom;
+	background-color: white;
+		border-bottom-style:inset;
+}
+#extra #info2{
+	float: left;
+	width: 20%;
+	height: 70%;
+	margin-left: 4%;
+}
+h4{
+	float: right;
+	font-size:  90%;
+	text-align: left;
+	width: 20%;
+	height: 70%;
+	margin-right: 2.5%;
+	color:844301;
+	{border-style: solid;}
+}
+#bot{	
+	float: bottom;
+	width: 90%;
+	height:30%;
+	margin-left : 2%;
+	margin-right: 2%;
+	margin-bottom: 2%;
+	background-color: #E6E6E6;	
+}
+#bot #menu, #bot #info333{
+	float: left;
+	text-align: center;
+	font-size:  100%;
+	background-color: #E6E6E6;
+	height:80%; 
+	width: 30%;
+}
+#botmenu {
+	float: left;
+	background-color: #E6E6E60;
+	width: 20%;
+	height:20%;
+	margin-left : 5%;
+	margin-right: 5%;
+	text-align: center;
+
+}
+
+#eventos{
+	text-align: center;
+	width: 100%;
+		border-bottom-style:inset;
+	
+}
+video{
+	align-content: right;
+	width: 85%;
+	height:15%;
+	margin-left: 7%;
+	margin-bottom:  : 5%;
+	margin-top: 5%;	
+	border-radius: 5% 5% 5% 5%;
+
+	
+}
+#video h3{
+	text-align: center;
+	color:844301;
+	
+}
